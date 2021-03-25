@@ -7,6 +7,9 @@ Just follow the generic procedures to set up Xamarin on your local environment. 
 # Built with
 
 Xamarin.Essentials
+
 Xamarin.Android
+
 Xam.Plugin.Connectivity
+
 Xamarin.Android Support Design Libraries
